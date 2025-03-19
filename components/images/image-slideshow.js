@@ -1,7 +1,7 @@
 "use client";
 
+import { useEffect, useState } from "react";
 import Image from "next/image";
-import { useState, useEffect } from "react";
 
 import burgerImg from "@/assets/burger.jpg";
 import curryImg from "@/assets/curry.jpg";
